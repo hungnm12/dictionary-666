@@ -34,7 +34,7 @@ namespace H2KT.Core.Services
         private readonly ISessionService _sessionService;
         private readonly IMailService _mailService;
 
-        private const string CallbackLinkActivateAccount = "http://localhost:5000/H2KT-api/Account/activate_account?token=";
+        private const string CallbackLinkActivateAccount = "http://localhost:5000/api/v1/Account/activate_account?token=";
         private const string CallbackLinkResetPassword = "http://localhost:3000/reset-password/";
 
         #endregion

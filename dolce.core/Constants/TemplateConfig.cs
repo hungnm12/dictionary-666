@@ -17,8 +17,8 @@ namespace H2KT.Core.Constants
             public const string DefaultTemplate = "default_template";
             public const string DefaultTemplateProtect = "default_template_protect";
 
-            public const string DownloadDefaultTemplate = "Nhom2PVO_ImportTemplate.xlsx";
-            public const string ExportFile = "Nhom2PVO_{0}_{1}.xlsx";
+            public const string DownloadDefaultTemplate = "Nhom5PVO_ImportTemplate.xlsx";
+            public const string ExportFile = "Nhom5PVO_{0}_{1}.xlsx";
         }
 
         

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace H2KT.Api.Controllers
 {
-    [Route("H2KT-api/[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController, Authorize]
     public class BaseApiController : ControllerBase
     {

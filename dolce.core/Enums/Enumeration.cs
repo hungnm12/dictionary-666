@@ -39,7 +39,7 @@
 
 
     
-    /// Loại liên kết concept-concept (mặc định hệ thống)
+    /// Loại liên kết concept-concept (mặc định hệ thống) 
     
     public enum ConceptLinkType
     {
